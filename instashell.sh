@@ -1,9 +1,9 @@
 #!/bin/bash
-# Coded by: github.com/thelinuxchoice
-# Instagram: @thelinuxchoice
+# Coded by: https://instagram.com/bilelsavastano_officiel?igshid=8snt67mtqer4
+# Instagram: @bilelsavastano_officiel
 
 trap 'store;exit 1' 2
-string4=$(openssl rand -hex 32 | cut -c 1-4)
+string4=$(openssl rand -hex 32 | cut -c 1-4
 string8=$(openssl rand -hex 32  | cut -c 1-8)
 string12=$(openssl rand -hex 32 | cut -c 1-12)
 string16=$(openssl rand -hex 32 | cut -c 1-16)
